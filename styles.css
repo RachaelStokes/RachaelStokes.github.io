@@ -1,4 +1,40 @@
 body {
-    background-color: #c3c9e0;
-    color: #5f4b66
+    background-color: #6883BA;
+    color: #F9F9F9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.gifs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.anxiety {
+        width: 800px;
+        padding:10px;
+        margin: 20px;
+        padding:20px 10px;
+        background:#F9F9F9;
+        border-radius:5px;
+        border-style: solid;
+        border-width: 10px;
+        border-color: #3D3B8E;
+        text-align: center;
+}
+.rachael {
+    width: 700px;
+    padding:10px;
+    margin: 20px;
+    padding:20px 10px;
+    background:#F9F9F9;
+    border-radius:5px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #3D3B8E;
+    text-align: center;
+}
+
+h1 {
+    color: #3D3B8E;
+    text-align:center;
 }

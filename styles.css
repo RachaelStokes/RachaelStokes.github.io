@@ -1,12 +1,19 @@
 body {
-    background-color: #6883BA;
+    background-color: #2F3E46;
     color: #F9F9F9;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.gifs {
+.gifs1 {
     display: flex;
    flex-wrap: wrap;
+}
+.gifs3 {
+    display: flex;
+   flex-wrap: wrap;
+}
+.gifs2 {
+    
 }
 
 .anxiety {
@@ -14,11 +21,11 @@ body {
         padding:10px;
         margin: 20px;
         padding:20px 10px;
-        background:#F9F9F9;
+        background:#ffffff;
         border-radius:5px;
         border-style: solid;
         border-width: 10px;
-        border-color: #3D3B8E;
+        border-color: #52796f;
         text-align: center;
         color: #6883BA;
 }
@@ -27,11 +34,11 @@ body {
     padding:10px;
     margin: 20px;
     padding:20px 10px;
-    background:#F9F9F9;
+    background:#ffffff;
     border-radius:5px;
     border-style: solid;
     border-width: 10px;
-    border-color: #3D3B8E;
+    border-color: #52796f;
     text-align: center;
     color: #6883BA;
 }
@@ -41,13 +48,14 @@ body {
     padding:10px;
     margin: 20px;
     padding:20px 10px;
-    background:#F9F9F9;
+    background:#ffffff;
     border-radius:5px;
     border-style: solid;
     border-width: 10px;
-    border-color: #3D3B8E;
+    border-color: #52796f;
     text-align: center;
 }
+/*
 .lonely {
     width: 800px;
     padding:10px;
@@ -59,34 +67,41 @@ body {
     border-width: 10px;
     border-color: #3D3B8E;
     text-align: center;
-}
+}*/
+.lonely {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    width: 50%;
+   
+  }
 
 .lightbulb {
-    width: 700px;
+    /*width: 1000px;*/
     padding:10px;
     margin: 20px;
     padding:20px 10px;
-    background:#F9F9F9;
-    border-radius:5px;
+    background: #cad2c5;
+    border-radius:3px;
     border-style: solid;
-    border-width: 10px;
-    border-color: #3D3B8E;
-    text-align: center;
+    border-width: 5px;
+    border-color: #52796f;
 }
 .bible{
     width: 700px;
     padding:10px;
     margin: 20px;
     padding:20px 10px;
-    background:#F9F9F9;
+    background: #ffffff;;
     border-radius:5px;
     border-style: solid;
     border-width: 10px;
-    border-color: #3D3B8E;
+    border-color: #52796f;
     text-align: center;
 }
 
 h1 {
-    color: #3D3B8E;
-    text-align:center;
+    color: #84A98c;
+    text-align:left;
 }
